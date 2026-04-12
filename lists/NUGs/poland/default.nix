@@ -4,5 +4,5 @@
   subtitle =  "No strict schedule";
   tag = "Poland";
   target = "_blank";
-  url = "https://discord.gg/eJnKKjQ3Bc";
+  url = "https://poland.nix.ug";
 }
