@@ -4,5 +4,5 @@
   subtitle = "No strict schedule";
   tag = "America";
   target = "_blank";
-  url = "https://bayareanixos.com";
+  url = "https://www.bayareanixos.com";
 }
